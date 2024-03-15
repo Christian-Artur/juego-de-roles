@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rpg",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rpg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rpg-Debug-a0432c73d543f85d6e56.json",
+					"name" : "rpg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/P.O.O/COMMIT NUMERO 1/2O-rpg-example(coomir 1)/2O-rpg-example-25c63ca33b6405195459922563a91dbfbb1ed14c/cmake-build-debug",
+		"source" : "D:/P.O.O/COMMIT NUMERO 1/2O-rpg-example(coomir 1)/2O-rpg-example-25c63ca33b6405195459922563a91dbfbb1ed14c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

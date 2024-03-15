@@ -1,0 +1,25 @@
+"D:\P.O.O\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\P.O.O\COMMIT NUMERO 1\2O-rpg-example(coomir 1)\2O-rpg-example-25c63ca33b6405195459922563a91dbfbb1ed14c" -B "D:\P.O.O\COMMIT NUMERO 1\2O-rpg-example(coomir 1)\2O-rpg-example-25c63ca33b6405195459922563a91dbfbb1ed14c\cmake-build-debug"
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/P.O.O/CLion 2023.3.4/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/P.O.O/CLion 2023.3.4/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (24.6s)
+-- Generating done (0.8s)
+-- Build files have been written to: D:/P.O.O/COMMIT NUMERO 1/2O-rpg-example(coomir 1)/2O-rpg-example-25c63ca33b6405195459922563a91dbfbb1ed14c/cmake-build-debug
